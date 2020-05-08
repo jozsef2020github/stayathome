@@ -1,0 +1,31 @@
+header{
+  font-family: 'Abril Fatface', helvetia;
+}
+.head {
+  text-align: center;
+  position: relative;
+}
+.headtext {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	font-size:50px;
+  text-align:right;
+  	color: #fff;
+}
+img {
+	width:900px;
+	position:reltive;	
+  	
+}
+
+div {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	font-size:20px;
+  text-align:center; 
+  	color: red;
+}
